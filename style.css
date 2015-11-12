@@ -1,13 +1,13 @@
   body {
       font: 400 15px Lato, verdana;
       line-height: 1.8;
-      color:#339966;
+      color:#2e8f60;
   }
   
   h2 {
       font-size: 24px;
       text-transform: uppercase;
-      color: #303030;
+      color: #2e8f60;
       font-weight: 600;
       margin-bottom: 30px;
   }
@@ -21,7 +21,7 @@
   }
   
   .jumbotron {
-      background-color: #339966;
+      background-color: #2e8f60;
       color: #fff;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
@@ -32,7 +32,7 @@
   }
   
   .bg-grey {
-      background-color: #f6f6f6;
+      background-color: #2e8f60;
   }
   
   .logo-small {
@@ -68,7 +68,7 @@
   }
   
   .carousel-indicators li.active {
-      background-color: #f4511e;
+      background-color: #2e8f60;
   }
   
   .item h4 {
@@ -95,7 +95,7 @@
   
   .panel-footer .btn:hover {
       border: 1px solid #f4511e;
-      background-color: #fff !important;
+      background-color: #2e8f60 !important;
       color: #f4511e;
   }
   
@@ -148,8 +148,8 @@
   
   .navbar-nav li a:hover,
   .navbar-nav li.active a {
-      color: #f4511e !important;
-      background-color: #fff !important;
+      color: #2e8f60 important;
+      background-color: #2e8f60 !important;
   }
   
   .navbar-default .navbar-toggle {
