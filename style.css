@@ -1,7 +1,7 @@
   body {
       font: 400 15px Lato, verdana;
       line-height: 1.8;
-      color:339966;
+      color:#339966;
   }
   
   h2 {
@@ -21,7 +21,7 @@
   }
   
   .jumbotron {
-      background-color: #f4511e;
+      background-color: #339966;
       color: #fff;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
